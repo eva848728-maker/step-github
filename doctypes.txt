@@ -1,0 +1,49 @@
+Типи (версії) HTML та DOCTYPE
+
+DOCTYPE — це оголошення на початку HTML-документа, яке повідомляє браузеру, яку версію HTML використовує сторінка.
+
+1. HTML5
+
+<!DOCTYPE html>
+
+Це сучасний стандарт HTML. Сьогодні використовується найчастіше.
+
+2. HTML 4.01 Strict
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+
+Використовувався для HTML 4.01 зі строгими правилами.
+
+3. HTML 4.01 Transitional
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+
+Дозволяв використання деяких застарілих HTML-елементів.
+
+4. HTML 4.01 Frameset
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN"
+"http://www.w3.org/TR/html4/frameset.dtd">
+
+Використовувався для сторінок із фреймами.
+
+5. XHTML 1.0 Strict
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+Версія XHTML зі строгими правилами написання коду.
+
+6. XHTML 1.0 Transitional
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+Дозволяв деякі застарілі елементи HTML.
+
+Висновок:
+У сучасних вебсайтах використовується HTML5, тому на початку HTML-файлу зазвичай пишуть:
+
+<!DOCTYPE html>
